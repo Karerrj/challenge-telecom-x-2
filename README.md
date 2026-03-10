@@ -23,21 +23,6 @@ Identificar factores clave que permitan reducir la pérdida de clientes.
 🤖 Scikit-learn
 📓 Jupyter Notebook / Google Colab
 
-📂 Estructura del proyecto
-
-telecom-x-churn-analysis-2
-│
-├── data/
-│   └── telecom_churn_dataset.csv
-│
-├── notebooks/
-│   └── modelo_prediccion_churn.ipynb
-│
-├── images/
-│   └── resultados_modelo.png
-│
-└── README.md
-
 🔎 Metodología del análisis
 
 1️⃣ Preparación de datos
