@@ -6,6 +6,7 @@ En esta segunda parte del challenge, el enfoque se centra en profundizar el aná
 El objetivo es transformar los datos en información estratégica que permita a la empresa ficticia Telecom X implementar acciones para mejorar la retención de clientes.
 
 🎯 Objetivos del proyecto
+
 Preparar y transformar los datos para modelado predictivo.
 Analizar variables que influyen en la evasión de clientes.
 Construir modelos de Machine Learning para predecir churn.
@@ -13,6 +14,7 @@ Evaluar el desempeño de los modelos mediante métricas de clasificación.
 Identificar factores clave que permitan reducir la pérdida de clientes.
 
 🧰 Tecnologías utilizadas
+
 🐍 Python
 📊 Pandas
 🔢 NumPy
@@ -35,6 +37,7 @@ telecom-x-churn-analysis-2
 │   └── resultados_modelo.png
 │
 └── README.md
+
 🔎 Metodología del análisis
 
 1️⃣ Preparación de datos
