@@ -1,6 +1,7 @@
 Telecom X 2 – Análisis de Evasión de Clientes (Churn Analysis Parte 2)
 
 📌 Descripción del proyecto
+
 Este proyecto corresponde al Challenge Telecom X 2: Análisis de evasión de clientes, desarrollado dentro de la formación de Data Science de Alura en el programa Oracle Next Education (ONE).
 En esta segunda parte del challenge, el enfoque se centra en profundizar el análisis de la evasión de clientes (churn) mediante técnicas de preparación de datos, análisis exploratorio avanzado y la construcción de modelos predictivos de Machine Learning para identificar clientes con mayor probabilidad de cancelar el servicio.
 El objetivo es transformar los datos en información estratégica que permita a la empresa ficticia Telecom X implementar acciones para mejorar la retención de clientes.
@@ -23,13 +24,16 @@ Identificar factores clave que permitan reducir la pérdida de clientes.
 🤖 Scikit-learn
 📓 Jupyter Notebook / Google Colab
 
+
 🔎 Metodología del análisis
 
 1️⃣ Preparación de datos
 2️⃣ Análisis exploratorio de datos (EDA)
 3️⃣ Modelado predictivo
 
+
 Se implementaron modelos de Machine Learning para predecir la probabilidad de churn.
+
 
 Ejemplos de modelos utilizados: 
 Regresión logística
